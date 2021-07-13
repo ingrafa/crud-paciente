@@ -1,2 +1,1 @@
-# Vue.js-Crud
-Saludos desde la UPS
+#Ejemplo de un crud en html
